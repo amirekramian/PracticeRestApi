@@ -1,0 +1,12 @@
+D:\.net samples\session2\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\.net samples\session2\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\.net samples\session2\OnlineShop\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\.net samples\session2\OnlineShop\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
